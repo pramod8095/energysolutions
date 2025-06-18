@@ -1,49 +1,4 @@
-/*------------------------------------------------------------------
-[Master Stylesheet]
 
-Project:  Energox
--------------------------------------------------------------------*/
-/*------------------------------------------------------------------
-[Table of contents]
-
-1. Body
-2. Header  / .header
-3. Banner  /.banner-con
-4. About  /.about-con
-5. Service  /.service-con
-6. Safety  /.safety-con
-7. Feature  /.feature-con
-8. Pricing  /.pricing-con
-9. Choose  /.choose-con
-10. Testimonial  /.testimonial-con
-11. Faq  /.faq-con
-12. Footer  /.footer-con
-*/
-/*------------------------------------------------------------------
-# [Color Codes]
-
-#    --e-global-color-primary: #141430;
-#    --e-global-color-secondary: #292929;
-#    --e-global-color-accent: #41cb5a;
-#    --e-global-color-text: #666666;
-#    --e-global-color-white: #ffffff;
-#    --e-global-color-black: #000000;
-#    --e-global-color-pure-red: #ff0000;
-#    --e-global-color-very-dark-grayish-blue: #2a3239;
-#    --e-global-color-very-light-gray-white: #f8f8f8;
-#    --e-global-color-grayish-blue: #b1b8bf;
-#    --e-global-color-very-dark-black-blue: #232a30;
-#    --e-global-color-very-light-gray: #e4e4e4;
-#    --e-global-color-dark-orange: #fbab00;
-#    --e-global-color-bright-yellow: #fdde47;
-
-*/
-/*------------------------------------------------------------------
-# [Typography]
- 
-Body copy: "DM Sans", sans-serif;
-Heading: "Lexend Deca", sans-serif;
-*/
 
 
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Lexend+Deca:wght@100..900&display=swap');
